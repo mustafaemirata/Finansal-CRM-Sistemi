@@ -1,0 +1,17 @@
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\bin\Debug\FinansalCRM.exe.config
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\bin\Debug\FinansalCRM.exe
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\bin\Debug\FinansalCRM.pdb
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.FrmBanks.resources
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.Properties.Resources.resources
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.exe
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.pdb
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\bin\Debug\EntityFramework.dll
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\bin\Debug\EntityFramework.xml
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\Finansal.5BB0F3A0.Up2Date
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.Odemeler.resources
+C:\Users\Emir\source\repos\FinansalCRM\FinansalCRM\obj\Debug\FinansalCRM.FrmDashboard.resources

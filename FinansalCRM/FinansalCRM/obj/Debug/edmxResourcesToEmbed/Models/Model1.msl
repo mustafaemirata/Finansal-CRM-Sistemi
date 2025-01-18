@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbFinansalCRMModelStoreContainer" CdmEntityContainer="DbFinansalCRMEntities">
+    <EntitySetMapping Name="BankProcess">
+      <EntityTypeMapping TypeName="DbFinansalCRMModel.BankProcess">
+        <MappingFragment StoreEntitySet="BankProcess">
+          <ScalarProperty Name="BankProcessID" ColumnName="BankProcessID" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ProcessDate" ColumnName="ProcessDate" />
+          <ScalarProperty Name="ProcessType" ColumnName="ProcessType" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="BankID" ColumnName="BankID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Banks">
+      <EntityTypeMapping TypeName="DbFinansalCRMModel.Banks">
+        <MappingFragment StoreEntitySet="Banks">
+          <ScalarProperty Name="BankaID" ColumnName="BankaID" />
+          <ScalarProperty Name="BankAccountNumber" ColumnName="BankAccountNumber" />
+          <ScalarProperty Name="BankTittle" ColumnName="BankTittle" />
+          <ScalarProperty Name="BankBalance" ColumnName="BankBalance" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bills">
+      <EntityTypeMapping TypeName="DbFinansalCRMModel.Bills">
+        <MappingFragment StoreEntitySet="Bills">
+          <ScalarProperty Name="BillId" ColumnName="BillId" />
+          <ScalarProperty Name="BillTitle" ColumnName="BillTitle" />
+          <ScalarProperty Name="BillAmount" ColumnName="BillAmount" />
+          <ScalarProperty Name="BillPeriod" ColumnName="BillPeriod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Spendings">
+      <EntityTypeMapping TypeName="DbFinansalCRMModel.Spendings">
+        <MappingFragment StoreEntitySet="Spendings">
+          <ScalarProperty Name="SpendingId" ColumnName="SpendingId" />
+          <ScalarProperty Name="SpendingTitle" ColumnName="SpendingTitle" />
+          <ScalarProperty Name="SpendingAmount" ColumnName="SpendingAmount" />
+          <ScalarProperty Name="SpendingDate" ColumnName="SpendingDate" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DbFinansalCRMModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Categories">
+      <EntityTypeMapping TypeName="DbFinansalCRMModel.Tbl_Categories">
+        <MappingFragment StoreEntitySet="Tbl_Categories">
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="DbFinansalCRMModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
